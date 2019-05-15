@@ -8,6 +8,7 @@ namespace GitColab
         {
             Console.WriteLine("Hello World!");
             Console.ReadLine();
+            //this is stupid
         }
     }
 }
